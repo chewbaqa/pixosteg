@@ -1,0 +1,10 @@
+char,color1,color2,color3
+H,#FF0000,#00FF00,
+e,#00FF00,#0000FF,
+l,#0000FF,#FF0000,#00FF00
+o,#FFFF00,,#FF00FF
+ ,#000000,,,
+w,#00FFFF,,#FF00FF
+r,#FF00FF,,#FFFF00
+d,#FFA500,,,
+.,#FFFFFF,,,
